@@ -1,0 +1,57 @@
+Pratapgarh_Sadar Mandhata 8 101
+Mandhata Kunda 10 101
+Kunda Babaganj 7 101
+Babaganj Lalgopalganj 12 101
+Lalgopalganj Jhunsi 9 101
+Jhunsi Prayagraj 6 101
+Prayagraj Phaphamau 8 102
+Phaphamau Handia 15 102
+Handia Saidabad 6 102
+Saidabad Mirzapur 18 102
+Mirzapur Chunar 10 102
+Chunar Varanasi 12 102
+
+Varanasi Mughalsarai 14 103
+Mughalsarai DDU_Nagar 3 103
+DDU_Nagar Ramnagar 9 103
+Ramnagar BHU 7 103
+BHU Lanka 2 103
+Lanka Assi_Ghat 3 103
+
+Prayagraj Kaushambi 7 201
+Kaushambi Fatehpur 25 201
+Fatehpur Kanpur 35 201
+Kanpur Unnao 20 201
+Unnao Lucknow 25 201
+
+Lucknow Barabanki 30 202
+Barabanki Faizabad 40 202
+Faizabad Ayodhya 10 202
+Ayodhya Sultanpur 35 202
+Sultanpur Pratapgarh_Sadar 40 202
+
+Varanasi Ghazipur 45 301
+Ghazipur Ballia 35 301
+Ballia Chapra 30 301
+Chapra Patna 60 301
+
+Patna Ara 50 302
+Ara Buxar 40 302
+Buxar Ghazipur 30 302
+
+Mirzapur Sonbhadra 50 401
+Sonbhadra Renukoot 15 401
+Renukoot Obra 10 401
+
+Kanpur Etawah 80 501
+Etawah Agra 90 501
+Agra Mathura 60 501
+Mathura Delhi 150 501
+
+Delhi Noida 20 601
+Noida Greater_Noida 25 601
+Greater_Noida Ghaziabad 30 601
+Ghaziabad Meerut 40 601
+Meerut Muzaffarnagar 50 601
+Muzaffarnagar Haridwar 70 601
+Haridwar Dehradun 50 601
